@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-vance)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-vance&layout=compact&theme=transparent)
 
 <!--
 **matthew-vance/matthew-vance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
